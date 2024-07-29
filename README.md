@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
