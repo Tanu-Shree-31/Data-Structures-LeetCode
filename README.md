@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
