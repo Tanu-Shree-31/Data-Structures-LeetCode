@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -18,9 +19,11 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -33,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -46,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
