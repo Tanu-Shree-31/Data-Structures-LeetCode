@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0283-move-zeroes) |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
