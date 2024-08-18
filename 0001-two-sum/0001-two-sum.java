@@ -4,7 +4,8 @@ class Solution {
     public int[] twoSum(int[] arr, int target) {
         HashMap<Integer,Integer> mpp = new HashMap<Integer,Integer>();
         int ans[] = new int[2];
-        ans[0] = ans[1] = -1;
+        // will be needed if there doesnt exist a pair -> but here in this problem always assume a pair of result exists.
+        // ans[0] = ans[1] = -1; 
         for(int i=0; i<arr.length; i++){
             int num = arr[i];
             int moreNeeded = target - num;
