@@ -96,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
