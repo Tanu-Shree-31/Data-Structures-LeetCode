@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0414-third-maximum-number) |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -108,4 +111,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
