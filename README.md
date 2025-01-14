@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -60,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
