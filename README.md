@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0414-third-maximum-number) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
