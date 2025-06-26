@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0242-valid-anagram) |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0242-valid-anagram) |
