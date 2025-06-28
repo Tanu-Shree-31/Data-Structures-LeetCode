@@ -1,27 +1,33 @@
 class Solution {
-    public static boolean isPalindrome(String str) {
-        boolean res = false;
-        res = checkCharacters(0,str.length()-1,str.toLowerCase());
-        return res;
-    }
+    public boolean isPalindrome(String s) {
+        // StringBuilder newStr = new StringBuilder();
+        // for (char c : s.toCharArray()) {
+        //     if (Character.isLetterOrDigit(c)) {
+        //         newStr.append(Character.toLowerCase(c));
+        //     }
+        // }
+        // return newStr.toString().equals(newStr.reverse().toString());
 
-    private static boolean checkCharacters(int left, int right, String str) {
-        if(left>=right) {
+        int l=0,r=s.length()-1;
+        while(l<r){
+            while(l<r && !isAlphaNum(s.charAt(l))){
+                l++;
+            }
+            while(r>l && !isAlphaNum(s.charAt(r))){
+                r--;
+            }
+            if(Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r))){
+                return false;
+            }
+            l++;
+            r--;
+        }
+        return true;
+    }
+    public boolean isAlphaNum(char c){
+        if((c >= 'A' && c<='Z') || (c >= 'a' && c<='z') || (c >= '0' && c<='9')){
             return true;
         }
-
-        if(!Character.isLetterOrDigit(str.charAt(left))) {
-            return checkCharacters(left+1, right, str);
-        }
-
-        if(!Character.isLetterOrDigit(str.charAt(right))) {
-            return checkCharacters(left, right-1, str);
-        }
-
-        if(str.charAt(left)!=str.charAt(right)) {
-            return false;
-        }
-
-        return checkCharacters(left+1, right-1, str);
+        return false;
     }
 }
