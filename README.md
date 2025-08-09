@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
