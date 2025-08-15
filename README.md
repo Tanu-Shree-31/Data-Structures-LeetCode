@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0242-valid-anagram) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
