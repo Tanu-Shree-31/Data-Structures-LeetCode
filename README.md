@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
