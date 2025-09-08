@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
