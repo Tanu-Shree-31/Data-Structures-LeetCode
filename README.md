@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3221-find-the-peaks](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0036-valid-sudoku) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
