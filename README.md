@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
