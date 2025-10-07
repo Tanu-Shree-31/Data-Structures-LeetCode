@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
