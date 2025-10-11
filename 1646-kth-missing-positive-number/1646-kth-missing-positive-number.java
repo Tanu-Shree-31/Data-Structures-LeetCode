@@ -14,7 +14,7 @@ class Solution {
                 high = mid-1;
             }
         }
-        if(low==0) return k;
+        if(high == -1) return k;
         return arr[high] + (k - noOfMissingEle[high]);
     }
 }
