@@ -1,16 +1,13 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> n = new HashSet<Integer>();
+        HashSet<Integer> hc = new HashSet<Integer>();
         for(int i=0; i<nums.length; i++){
-            n.add(nums[i]);
+            if(hc.contains(nums[i])){
+                return true;
+            } else {
+                hc.add(nums[i]);
+            }
         }
-        if(nums.length == n.size()){
-            return false;
-        } else {
-            return true;
-        }
+        return false;
     }
-
-    // time complexity: O(N)
-    // Space complexity: O(N)
 }
