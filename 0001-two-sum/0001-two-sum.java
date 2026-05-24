@@ -1,21 +1,20 @@
-import java.util.HashMap;
-
 class Solution {
     public int[] twoSum(int[] arr, int target) {
-        HashMap<Integer,Integer> mpp = new HashMap<Integer,Integer>();
-        int ans[] = new int[2];
-        // will be needed if there doesnt exist a pair -> but here in this problem always assume a pair of result exists.
-        // ans[0] = ans[1] = -1; 
-        for(int i=0; i<arr.length; i++){
-            int num = arr[i];
-            int moreNeeded = target - num;
-            if(mpp.containsKey(moreNeeded)) {
-                ans[0] = i;
-                ans[1] = mpp.get(moreNeeded);
-                return ans;
+        HashMap<Integer, Integer> mpp = new HashMap<>();
+        int res[] = new int[2];
+
+        for (int i = 0; i < arr.length; i++) {
+            int complimentNo = target - arr[i];
+
+            if (mpp.containsKey(complimentNo)) {
+                res[0] = mpp.get(complimentNo);
+                res[1] = i;
+                return res;
             }
-            mpp.put(num,i);
+
+            mpp.put(arr[i], i);
         }
-        return ans;
+
+        return res;
     }
 }
