@@ -1,40 +1,24 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // 1. create the hashmap and for each number and its frequency
-        Map<Integer, Integer> count = new HashMap<>();
-        for(int n:nums){
-            count.put(n,count.getOrDefault(n,0)+1);
+        // brute force approach - using sorting
+        HashMap<Integer,Integer> mpp = new HashMap<>();
+        // step1: build the number : freq hashmap
+        for(int i: nums){
+            mpp.put(i, mpp.getOrDefault(i, 0)+1);
         }
-
-        //2. create the list of array
-        // key - number of times its occuring
-        // value - array because its the numbers in array
-        // create empty one
-        List<Integer>[] freq = new List[nums.length+1];
-        for(int i=0; i<freq.length; i++){
-            freq[i] = new ArrayList<>();
+        // step2: sort this hashmap based on frequencies
+        // for sorting operation, we need to add these (k,v) pair in list
+        // in list we will have as (v,k) - as we need to sort by frequencies
+        List <int[]> list = new ArrayList<>();
+        for(Map.Entry<Integer, Integer> entry: mpp.entrySet()){
+            list.add(new int[] {entry.getValue(), entry.getKey()});
         }
-
-        // Step 3: Place each number into the correct frequency bucket
-        for(Map.Entry<Integer,Integer> entry: count.entrySet()){
-            int number = entry.getKey();
-            int frequency = entry.getValue();
-            freq[frequency].add(number);
+        // step 3: sort this list based on frequencies descending order
+        list.sort((a,b)->b[0]-a[0]); 
+        int res[] = new int[k];
+        for(int i=0; i<k; i++){
+            res[i] = list.get(i)[1]; // get the 2nd ele, which is original value/ number
         }
-
-        // Step 4: Collect the top K frequent elements from the buckets
-        int[] res=new int[k];
-        int index=0;
-
-        // Start from the highest frequency bucket and move downward
-        for(int i=freq.length-1 ; i>0 && index<k; i--){
-            for (int n: freq[i]){
-                res[index++]=n;
-                if(index==k){
-                    return res;
-                }
-            }
-        }
-        return res;  
+        return res;
     }
 }
