@@ -218,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/3221-find-the-peaks) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tanu-Shree-31/Data-Structures-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
