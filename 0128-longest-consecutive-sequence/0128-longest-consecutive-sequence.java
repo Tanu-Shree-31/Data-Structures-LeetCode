@@ -1,36 +1,23 @@
 class Solution {
-    public int longestConsecutive(int[] arr) {
-        // Arrays.sort(arr);
-        // int lastSmaller = Integer.MIN_VALUE, counter = 0, longest=1;
-        // for(int i=0; i<arr.length; i++) {
-        //     if(arr[i]-1 == lastSmaller){
-        //         lastSmaller = arr[i];
-        //         counter++;
-        //     } else if(arr[i]!=lastSmaller){
-        //         lastSmaller = arr[i];
-        //         counter=1;
-        //     }
-        //     longest = Math.max(counter,longest);
-        // }
-        // return longest;
-
-
-        HashSet<Integer> hashSet = new HashSet<>();
-        for(int i=0; i< arr.length; i++){ //O(N)
-            hashSet.add(arr[i]);
-        }
-        int longest=0;
-        for(int i: hashSet){
-            if(!hashSet.contains(i-1)){
+    public int longestConsecutive(int[] nums) {
+        // Add all ele's to a hashset.
+        HashSet<Integer> set = new HashSet<>();
+        for(int i: nums)
+            set.add(i);
+        // find the starts
+        int maxlen=0;
+        for(int i: set) {
+            if(!set.contains(i-1)){
+                // it is a start
                 int counter = 1;
-                int num = i;
-                while(hashSet.contains(num+1)){
-                    num++;
+                while(set.contains(i+1)){
+                    // it is a consectutive sequence
                     counter++;
+                    i++;
                 }
-                longest = Math.max(counter,longest);
-            }
+                maxlen = Math.max(maxlen, counter );
+            } 
         }
-        return longest;
+        return maxlen;
     }
 }
